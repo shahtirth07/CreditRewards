@@ -80,3 +80,7 @@ render.experimental.xml
 .env
 .env.*
 *.secret.dart
+
+### Claude Code ###
+CLAUDE.md
+Claude.md
